@@ -40,7 +40,7 @@ public class TestUtil {
                 appName,
                 ipAddress,
                 "sid123",
-                new InstanceInfo.PortWrapper(true, port),
+                new InstanceInfo.PortWrapper(port, true),
                 null,
                 null,
                 null,
